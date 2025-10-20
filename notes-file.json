@@ -16,5 +16,59 @@
     "title": "spela",
     "body": "spela fotboll",
     "favorite": false
+  },
+  {
+    "id": 6,
+    "title": "testa1",
+    "body": "test1",
+    "favorite": true
+  },
+  {
+    "id": 7,
+    "title": "lektion",
+    "body": "har lektion i skolan ",
+    "favorite": true
+  },
+  {
+    "id": 8,
+    "title": "spela spela",
+    "body": "spela sepla",
+    "favorite": true
+  },
+  {
+    "id": 9,
+    "title": "hej",
+    "body": "hej",
+    "favorite": false
+  },
+  {
+    "id": 10,
+    "title": "uuhjuj",
+    "body": "",
+    "favorite": false
+  },
+  {
+    "id": 11,
+    "title": "hh",
+    "body": "hh",
+    "favorite": false
+  },
+  {
+    "id": 12,
+    "title": "hej",
+    "body": "hej",
+    "favorite": false
+  },
+  {
+    "id": 13,
+    "title": "whhe",
+    "body": "ejejhe",
+    "favorite": false
+  },
+  {
+    "id": 14,
+    "title": "lektipm nu ",
+    "body": "",
+    "favorite": false
   }
 ]
